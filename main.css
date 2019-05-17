@@ -183,12 +183,12 @@ h2 {
 		h1 {
 			font-size: 1.2rem;
 			}
-	.one {
-		left: 38vh;
+		.one {
+		left: 33vh;
 	}
 
 	.two {
-		left:38vh;
+		left:33vh;
 		top: 20vh;
 	}
 
@@ -198,7 +198,7 @@ h2 {
 		position: relative;
 		width: 120px;
 		height: auto;
-		right: 83vh;
+		right: 75vh;
 		top: 12rem;
 
 	}
